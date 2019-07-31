@@ -3,9 +3,8 @@ server:
 spring:
   application:
     name: product-service
-datasource:
-    username: root
-    password: moon1229
-    hikari:
-      url: jdbc:mysql://localhost:3306/maiqu?useUnicode=true&characterEncoding=utf8 
-      driver-class-name: com.mysql.jdbc.Driver
+  datasource:
+   username: root
+   password: moon1229
+   url: jdbc:mysql:///maiqu?useUnicode=true&characterEncoding=utf8
+   driver-class-name: com.mysql.jdbc.Driver
