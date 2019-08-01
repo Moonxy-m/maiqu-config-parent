@@ -1,2 +1,2 @@
-# maiqu-parent
-买趣网数据库
+#maiqu-parent
+买趣网配置中心
