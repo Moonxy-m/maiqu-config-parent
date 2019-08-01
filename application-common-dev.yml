@@ -1,0 +1,6 @@
+
+server:
+  port: 6969
+spring:
+  application:
+    name: common-service
