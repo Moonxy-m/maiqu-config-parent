@@ -13,4 +13,7 @@ zuul:
     product:
       path: /product/** #平台服务的请求路径
       serviceId: product-service
+    common:
+      path: /common/** #平台服务的请求路径
+      serviceId: common-service
   prefix: /services #请求前缀
